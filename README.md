@@ -38,4 +38,11 @@ I made a simple game with UE5.
   <img src="_reportAndImg/talk01.png" style="width:800px"></img>
 </div>
 
-<a href="https://github.com/kkt3343/UE5/raw/master/_reportAndImg/v1.wav">1</a>
+<hr>
+<h3></h3>
+<div>
+  <a href="https://github.com/kkt3343/UE5/raw/master/_reportAndImg/v1.wav">음성 다운로드</a>
+</div>
+<div>
+  <a href="https://github.com/kkt3343/UE5/raw/master/_reportAndImg/v2.wav">음성 다운로드</a>
+</div>
