@@ -19,4 +19,9 @@ I made a simple game with UE5.
     </tr>
   </table>
 </div>
+<hr>
+<div>
+  <h5>캐릭터 디자인</h5>
+  <img src="_reportAndImg/image01.png"></img>
+</div>
 
