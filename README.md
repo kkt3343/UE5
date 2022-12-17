@@ -19,8 +19,20 @@ I made a simple game with UE5.
   </table>
 </div>
 <hr>
+<h3>스크린샷</h3>
 <div>
-  <h3>스크린샷</h3>
   <img src="_reportAndImg/image01.png"></img>
+</div>
+<div>
+  <img src="_reportAndImg/image02.png"></img>
+</div>
+<div>
+  <img src="_reportAndImg/image03.png"></img>
+</div>
+<div>
+  <img src="_reportAndImg/image04.png"></img>
+</div>
+<div>
+  <img src="_reportAndImg/talk01.png"></img>
 </div>
 
