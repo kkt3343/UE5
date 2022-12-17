@@ -10,8 +10,8 @@ I made a simple game with UE5.
   <h5>캐릭터 디자인</h5>
   <table>
     <tr>
-      <td>닐루</td>
-      <td>코코미</td>
+      <td><center>닐루</center></td>
+      <td><center>코코미</center></td>
     </tr>
     <tr>
       <td><img src="_reportAndImg/char01.png"></img></td>
