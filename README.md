@@ -24,15 +24,15 @@ I made a simple game with UE5.
   <img src="_reportAndImg/image01.png" style="width:800px"></img>
 </div>
 <div>
-  <img src="_reportAndImg/image02.png"></img>
+  <img src="_reportAndImg/image02.png" style="width:800px"></img>
 </div>
 <div>
-  <img src="_reportAndImg/image03.png"></img>
+  <img src="_reportAndImg/image03.png" style="width:800px"></img>
 </div>
 <div>
-  <img src="_reportAndImg/image04.png"></img>
+  <img src="_reportAndImg/image04.png" style="width:800px"></img>
 </div>
 <div>
-  <img src="_reportAndImg/talk01.png"></img>
+  <img src="_reportAndImg/talk01.png" style="width:800px"></img>
 </div>
 
