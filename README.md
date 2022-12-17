@@ -21,7 +21,7 @@ I made a simple game with UE5.
 <hr>
 <h3>스크린샷</h3>
 <div>
-  <img src="_reportAndImg/image01.png" style="width:1000px"></img>
+  <img src="_reportAndImg/image01.png" style="width:800px"></img>
 </div>
 <div>
   <img src="_reportAndImg/image02.png"></img>
