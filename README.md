@@ -4,10 +4,9 @@ I made a simple game with UE5.
 4학년 2학기때 배운 언리얼엔진5로 간단한 게임을 만들었습니다.
 
 <hr>
-<h3>스크린샷</h3>
 
 <div>
-  <h5>캐릭터 디자인</h5>
+  <h3>캐릭터 디자인</h3>
   <table>
     <tr>
       <td><center>닐루</center></td>
@@ -21,7 +20,7 @@ I made a simple game with UE5.
 </div>
 <hr>
 <div>
-  <h5>캐릭터 디자인</h5>
+  <h3>스크린샷</h3>
   <img src="_reportAndImg/image01.png"></img>
 </div>
 
