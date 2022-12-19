@@ -50,4 +50,4 @@ I made a simple game with UE5.
 
 
 <div>해당 음성은 Vits모델의 합성으로 만들어진 TTS입니다.</div>
-<div><a href="https://github.com/kkt3343/vits">참조하기</a></div>
+<div><a href="https://kkt3343.github.io/vits/tts_sample.html">참조하기</a></div>
